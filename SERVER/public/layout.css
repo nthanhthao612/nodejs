@@ -1,0 +1,41 @@
+/* *{
+    background-color: green;
+} */
+#currentUser{
+    width: 30%;
+    float: left;
+    background-color: hotpink;
+}
+#messageBox{
+    width: 70%;
+    float:right;
+    
+    background-color: red;
+}
+#textUser{
+    padding: 5px;
+    border: solid 1px black;
+    text-align: center;
+}
+.onUser{
+    border: solid 1px black;
+    border-top: none;
+}
+#boxHello{
+    border: solid 1px black;
+    padding: 5px;
+}
+#boxMessage{
+    height: 350px;
+}
+#textInput{
+    width:90%   ;
+}
+.user{
+    text-align: center;
+    border: solid 1px black;
+    border-top: none;
+}
+#btnLogout{
+    float: right;
+}
